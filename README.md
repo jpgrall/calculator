@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/joshuagrall/CalcDemo/_apis/build/status/jpgrall.calculator?branchName=master)](https://dev.azure.com/joshuagrall/CalcDemo/_build/latest?definitionId=4&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
